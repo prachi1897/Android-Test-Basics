@@ -6,10 +6,10 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="70dp"
         android:text="textview1"
         android:gravity="center"
-        android:background="#faee03"
+        android:background="#fa03a8"
         android:layout_marginBottom="10dp"/>
 
     <LinearLayout
@@ -19,19 +19,19 @@
 
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="100dp"
             android:text="textview2"
             android:gravity="center"
             android:layout_weight="6"
-            android:background="#faa906"/>
+            android:background="#8006fa"/>
 
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="100dp"
             android:text="textview3"
             android:gravity="center"
             android:layout_weight="6"
@@ -39,17 +39,17 @@
 
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="100dp"
             android:text="textview4"
             android:gravity="center"
             android:layout_weight="6"
-            android:background="#07edbc"
-            android:layout_marginBottom="100dp"/>
+            android:background="#862815"
+            android:layout_marginBottom="60dp"/>
     </LinearLayout>
 
     <LinearLayout
@@ -59,11 +59,11 @@
 
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="100dp"
             android:text="textview5"
             android:gravity="center"
             android:layout_weight="6"
-            android:background="#06ebf7"/>
+            android:background="#06eb25"/>
 
         <TextView
             android:layout_width="0dp"
@@ -71,11 +71,11 @@
             android:layout_weight="1"/>
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="100dp"
             android:text="textview6"
             android:gravity="center"
             android:layout_weight="6"
-            android:background="#0973f4"/>
+            android:background="#0973f9"/>
 
         <TextView
             android:layout_width="0dp"
@@ -84,11 +84,11 @@
 
         <TextView
             android:layout_width="0dp"
-            android:layout_height="50dp"
+            android:layout_height="100dp"
             android:text="textview7"
             android:gravity="center"
             android:layout_weight="6"
-            android:background="#f108f5"
+            android:background="#f5087f"
             android:layout_marginBottom="50dp"/>
     </LinearLayout>
 
@@ -99,18 +99,18 @@
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="50dp"
+            android:layout_height="60dp"
             android:text="textview8"
             android:gravity="center"
             android:background="#faee03"
-            android:layout_marginBottom="30dp"/>
+            android:layout_marginBottom="15dp"/>
 
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="50dp"
+            android:layout_height="600dp"
             android:text="textview9"
             android:gravity="center"
-            android:background="#faee03"/>
+            android:background="#7efa0330"/>
     </LinearLayout>
 
 
